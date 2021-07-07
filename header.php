@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <?php wp_head(); ?>
 </head>
+<!-- add's the WordPress default body classes -->
 <body <?php body_class(); ?>>
 
 <div id="page">
